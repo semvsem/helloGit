@@ -1,0 +1,18 @@
+body {
+  width: 90%;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+  font-size: 12px;
+}
+table th, table td {
+    border: 3px solid rgb(128, 0, 0);
+    padding: 10px;
+}
+table th {
+  background-color: rgb(128, 255, 255);
+}
+.center {
+  text-align: center;
+}
